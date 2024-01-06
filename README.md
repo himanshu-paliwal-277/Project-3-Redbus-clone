@@ -6,4 +6,5 @@ It is the project in which i create a redBus home page clone
 - CSS
 
 ## GitHub pages Link:
-[Redbus Homepage Clone]([https://www.redbus.in/](https://himanshu-paliwal-277.github.io/Redbus-clone/)https://himanshu-paliwal-277.github.io/Redbus-clone/)
+[Redbus Homepage Clone](https://himanshu-paliwal-277.github.io/Redbus-clone/)
+https://himanshu-paliwal-277.github.io/Redbus-clone/
