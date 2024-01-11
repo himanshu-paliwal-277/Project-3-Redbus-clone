@@ -209,6 +209,25 @@ body .main_heading {
   color: rgb(126, 126, 140);
 }
 
+.search_buses_section .bus_search_area input {
+  font-size: 18px;
+  border: none;
+  outline: none;
+}
+
+.search_buses_section .bus_search_area input[type="date"] {
+  width: 132px;
+  font-size: 16px;
+}
+
+/* Remove calender logo from input[type="date"] */
+/* input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+    visibility: none;
+} */
+
 .bus_search_area .from_city_area {
   display: flex;
   justify-content: center;
