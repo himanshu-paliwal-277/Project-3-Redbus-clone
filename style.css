@@ -183,7 +183,6 @@ body .main_heading {
   justify-content: center;
   position: absolute;
   top: 326px;
-  /* border: 2px solid yellow; */
 }
 
 .search_buses_section .bus_search_area {
@@ -219,14 +218,6 @@ body .main_heading {
   width: 132px;
   font-size: 16px;
 }
-
-/* Remove calender logo from input[type="date"] */
-/* input[type="date"]::-webkit-inner-spin-button,
-input[type="date"]::-webkit-calendar-picker-indicator {
-    display: none;
-    -webkit-appearance: none;
-    visibility: none;
-} */
 
 .bus_search_area .from_city_area {
   display: flex;
@@ -463,8 +454,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   display: flex;
   justify-content: center;
   margin-bottom: 2rem;
-  /* position: relative;
-  top: 310px; */
   margin-top: 310px;
   height: 90px;
 }
@@ -480,16 +469,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   margin: 0 7.5rem 2rem;
   display: flex;
   flex-direction: column;
-  /* ------------------ */
-  /* height: 500px; */
-  /* background-color: rgba(0, 0, 0, 0.24); */
-  /* ------------------ */
 }
 
 /* Partial List Container > partialList_1 > left_side_section */
 .partialListContainer .partialList_1 {
   margin: 5.625rem 0;
-  /* background-color: rgba(0, 0, 255, 0.123); */
   display: flex;
   justify-content: space-between;
 }
@@ -498,7 +482,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   display: flex;
   flex-direction: column;
   width: 50%;
-  /* background-color: rgb(255, 0, 0); */
 }
 
 .partialListContainer .partialList_1 .left_side_section h2 {
@@ -511,13 +494,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .partialListContainer .partialList_1 .left_side_section .cabAndTrainTickets {
-  /* background-color: rgba(0, 47, 255, 0.205); */
   display: flex;
   margin: 32px 72px 32px 0px;
 }
 
 .partialList_1 .left_side_section .cabAndTrainTickets .cabBusRental {
-  /* border: 1px solid rgb(255, 238, 0); */
   display: flex;
   align-items: center;
   padding: 0.875rem 1rem;
@@ -548,7 +529,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .partialList_1 .left_side_section .cabAndTrainTickets .trainTickects {
-  /* border: 1px solid rgb(255, 238, 0); */
   display: flex;
   align-items: center;
   padding: 0.875rem 1rem;
@@ -562,8 +542,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .partialList_1 .left_side_section .cabAndTrainTickets .trainTickects:hover {
-  /* border: 1px solid rgb(255, 238, 0); */
-  background-color: #aaa;
+  background-color: rgb(229, 229, 229);
 }
 
 .partialList_1 .left_side_section .cabAndTrainTickets .trainTickects > img {
@@ -749,7 +728,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   justify-content: space-between;
   margin-top: 3rem;
   gap: 5rem;
-  /* background-color: rgba(0, 0, 0, 0.425); */
 }
 
 .partialListContainer .partialList_2 section .right_part .QR_code {
@@ -787,7 +765,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 /* Partial List Container > partialList_3 */
 .partialListContainer .partialList_3 {
   margin: 5.625rem 0;
-  /* background-color: rgba(0, 255, 255, 0.397); */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1004,7 +981,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   flex-direction: column;
   align-items: center;
   cursor: pointer;
-  /* background-color: rgba(0, 0, 0, 0.418); */
 }
 
 .global_presence .global_presence_country .box img {
@@ -1185,7 +1161,6 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   gap: 2rem;
   margin-bottom: 2rem;
   color: #1d1d1d;
-  /* overflow: scroll hidden; */
   white-space: nowrap;
 }
 
