@@ -1,10 +1,20 @@
-## Redbus homepage clone
-It is the project in which i create a redBus home page clone
+## Redbus homepage UI clone Project
+
+Hello there! I created Redbus homepage Clone project, this was crafted using HTML and CSS, two backbone technologies in web development. My primary goal in building Redbus homepage clone project was to brush up on my skills and gain a deeper understanding of this technology.
+
 
 ## Tech Used
+
 - HTML
 - CSS
 
-## GitHub pages Link:
-[Redbus Homepage Clone](https://himanshu-paliwal-277.github.io/Redbus-clone/)
-https://himanshu-paliwal-277.github.io/Redbus-clone/
+
+## Website Link
+
+[Redbus Clone Website](https://himanshu-paliwal-277.github.io/Redbus-clone/)
+
+
+## Project Screenshot
+
+![Redbus Homepage Clone UI Screenshot](./Output/Output.png)
+
