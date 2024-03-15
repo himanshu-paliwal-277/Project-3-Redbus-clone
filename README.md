@@ -11,10 +11,12 @@ Hello there! I created Redbus homepage Clone project, this was crafted using HTM
 
 ## Website Link
 
-[Redbus Clone Website](https://himanshu-paliwal-277.github.io/Redbus-clone/)
+[Redbus Clone Website](https://himanshu-paliwal-277.github.io/Project-3-Redbus-clone/)
 
 
 ## Project Screenshot
 
 ![Redbus Homepage Clone UI Screenshot](./Output/screenshot.png)
+
+![Redbus Homepage Clone UI full page Screenshot](./Output/full%20page%20screenshot.png)
 
