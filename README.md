@@ -16,7 +16,5 @@ Hello there! I created Redbus homepage Clone project, this was crafted using HTM
 
 ## Project Screenshot
 
-![Redbus Homepage Clone UI Screenshot](./Output/screenshot.png)
-
-![Redbus Homepage Clone UI full page Screenshot](./Output/full%20page%20screenshot.png)
+![Redbus Homepage Clone UI Screenshot](./Output/full%20page%20screenshot.png)
 
