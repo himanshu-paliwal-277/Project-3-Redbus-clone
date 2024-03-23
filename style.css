@@ -299,8 +299,8 @@ body .main_heading {
 .tranding_offers_section {
   display: flex;
   justify-content: center;
-  position: absolute;
-  bottom: -246px;
+  position: relative;
+  bottom: 67px;
   left: 0;
   right: 0;
   margin-left: auto;
@@ -454,7 +454,7 @@ body .main_heading {
   display: flex;
   justify-content: center;
   margin-bottom: 2rem;
-  margin-top: 310px;
+  margin-top: 10px;
   height: 90px;
 }
 
@@ -1355,4 +1355,27 @@ footer .copyright_social_section > p {
 footer .copyright_social_section .social_section {
   display: flex;
   gap: 1.5rem;
+}
+
+/* Media Queries to make website responsive */
+@media screen and (max-width: 1200px) {
+  body header .redBus_header {
+    margin: 0px 25px;
+  }
+
+  .tranding_offers_section .tranding_offers {
+    width: 1130px;
+  }
+  #SBI_ads {
+    margin: 0px 35px;
+  }
+  .partialListContainer .partialList_3 .primo_section {
+    gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .partialListContainer .lastPartialList .bus_operators .private_buses {
+    gap: 0.5rem 1rem;
+  }
 }
